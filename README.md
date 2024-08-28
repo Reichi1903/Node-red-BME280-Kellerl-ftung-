@@ -2,7 +2,7 @@
 
 ### Was macht dieses Script?
 
-Dieses Script wurde in Node-RED entwickelt und steuert einen Lüfter basierend auf verschiedenen Umweltbedingungen, die von Sensoren erfasst werden. Ziel ist es, die Lüftersteuerung automatisch und effizient zu gestalten, um optimale Innenraumluftbedingungen zu gewährleisten. Die Funktion erfasst Temperatur- und Feuchtigkeitsdaten sowohl von Innen- als auch Außensensoren und berechnet die Taupunkte, um die Lüftungsentscheidung zu treffen.
+Dieses Script wurde in Node-RED entwickelt und steuert einen Lüfter basierend auf verschiedenen Umweltbedingungen, die von Sensoren (Bosch BME280) erfasst werden. Ziel ist es, die Lüftersteuerung automatisch und effizient zu gestalten, um optimale Innenraumluftbedingungen zu gewährleisten. Die Funktion erfasst Temperatur- und Feuchtigkeitsdaten sowohl von Innen- als auch Außensensoren und berechnet die Taupunkte, um die Lüftungsentscheidung zu treffen.
 
 ### Funktionsweise:
 
