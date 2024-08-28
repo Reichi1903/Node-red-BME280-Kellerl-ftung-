@@ -39,5 +39,5 @@ Mit diesem Script schaffe ich eine dynamische und automatische Steuerung des Lü
 
 ---
 
-Dies Script basiert zu großen Teilen auf den YouTube Tutorials von
+Dieses Script basiert zu großen Teilen auf dem YouTube Tutorial von
 raspbery4sailing "Node-Red Kellerlüftung".
