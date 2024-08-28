@@ -36,3 +36,8 @@ Durch diese spezifischen Bedingungen soll vermieden werden, dass der Lüfter die
 ---
 
 Mit diesem Script schaffe ich eine dynamische und automatische Steuerung des Lüfters, die genau auf die aktuellen Innen- und Außenbedingungen abgestimmt ist, um das Raumklima effizient zu regulieren.
+
+---
+
+Dies Script basiert zu großen Teilen auf den YouTube Tutorials von
+raspbery4sailing "Node-Red Kellerlüftung".
